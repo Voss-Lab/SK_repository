@@ -1,6 +1,6 @@
 # Shell-Optimized Atomic Confinement (SOAC) '.skf' Files
 
-This repository contains Slater-Koster files for the electronic structure calculations of transition metals, ranging from Scandium (Sc) to Gold (Au). These files are specifically optimized for use with the **DFTB+** code.
+This repository contains Slater-Koster files developed by the [Voss group](https://vossgroup.sites.stanford.edu/) for the electronic structure calculations of transition metals, ranging from Scandium (Sc) to Gold (Au). These files are specifically optimized for use with the **DFTB+** code.
 
 In addition to the `.skf` files, the repository includes Python dictionaries containing atomic spin constants. These constants have been derived from free atomic calculations and optimized for bulk material simulations.
 
