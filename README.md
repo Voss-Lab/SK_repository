@@ -18,4 +18,4 @@ To use these Slater-Koster files with **DFTB+**, ensure that the path to the `.s
 
 When utilizing the files in this repository, please refer to them collectively as "SOAC" parameters. The SOAC method was developed in the following study, which should be cited in any related publications:
 
-F. Balzaretti and J. Voss, *J. Chem. Theory Comput.*, 2024. [DOI](https://doi.org/10.1021/acs.jctc.4c00345)
+F. Balzaretti and J. Voss, *J. Chem. Theory Comput.*, 2024, 20, 16, 7272–7286. [DOI](https://doi.org/10.1021/acs.jctc.4c00345)
